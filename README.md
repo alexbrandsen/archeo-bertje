@@ -1,4 +1,4 @@
-# archeo-bertje
+# ArcheoBERTje
 A Dutch BERT model for the Archaeology domain
 
 This model is based on the Dutch BERTje model by wietsedv (https://github.com/wietsedv/bertje).
